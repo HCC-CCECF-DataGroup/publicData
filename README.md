@@ -1,2 +1,2 @@
 # publicData
-A place to store oublic data
+A place to store public data
